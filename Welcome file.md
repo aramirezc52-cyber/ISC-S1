@@ -3,18 +3,18 @@
 
 ---
 
-<h2 id="indice">indice</h2>
-<p>° <a href="#a">A</a></p>
-<p>°<a href="#c">C</a></p>
-<p>°<a href="#d">D</a></p>
-<p>°<a href="#f">F</a></p>
-<p>°<a href="#h">H</a></p>
-<p>°<a href="#m">M</a></p>
-<p>°<a href="#p">P</a></p>
-<p>°<a href="#s">S</a></p>
-<p>°<a href="#t">T</a></p>
-<p>°<a href="#v">V</a></p>
-<p>°<a href="#w">W</a></p>
+<h2 id="índice">índice</h2>
+<p>° <a href="#a"> A </a></p>
+<p>° <a href="#c"> C </a></p>
+<p>° <a href="#d"> D </a></p>
+<p>° <a href="#f"> F </a></p>
+<p>° <a href="#h"> H </a></p>
+<p>° <a href="#m"> M </a></p>
+<p>° <a href="#p"> P </a></p>
+<p>° <a href="#s"> S </a></p>
+<p>° <a href="#t"> T </a></p>
+<p>° <a href="#v"> V </a></p>
+<p>° <a href="#o"> O </a></p>
 <hr>
 <h2 id="a">A</h2>
 <h3 id="°-apis">° APIS:</h3>
@@ -29,7 +29,7 @@
 <h2 id="d">D</h2>
 <h3 id="°-devops">° DevOps:</h3>
 <p><em>DEFINICIÓN:</em> Conjunto de practicas que integran desarrollo y operaciones. Busca mejorar la colaboración entre equipos de software. Acelera la entrega de aplicaciones de forma continua.</p>
-<h3 id="°-docker">° DOCKER:</h3>
+<h3 id="°-acoplar">° ACOPLAR:</h3>
 <p><em>DEFINICIÓN:</em> Plataforma que permite crear y ejecutar aplicaciones en contenedores. Los contenedores incluyen todo lo necesario para funcionar.</p>
 <p><a href="#indice">volver al índice</a></p>
 <h2 id="f">F</h2>
@@ -46,7 +46,7 @@
 <h3 id="°-miniaturización">° MINIATURIZACIÓN:</h3>
 <p><em>DEFINICIÓN:</em> Proceso de reducción del tamaño de componentes electrónicos. Permite crear dispositivos mas pequeños y potentes. Es clave en la evolución tecnológica.</p>
 <p><a href="#indice">volver al índice</a></p>
-<h2 id="p">P</h2>
+<h2 id="pag">PAG</h2>
 <h3 id="°-phishing">° PHISHING:</h3>
 <p><em>DEFINICION:</em> Técnica de fraude para robar información personal. Se realiza mediante de correos o mensajes falsos. Suplantan la identidad de empresas o personas.</p>
 <p><a href="#indice">volver al índice</a></p>
@@ -60,11 +60,11 @@
 <h3 id="°-transistores">° TRANSISTORES:</h3>
 <p><em>DEFINICIÓN:</em> Componentes electrónicos que controlan el flujo de corriente. Son la base de los circuitos integrados. Funcionan como interruptores o amplificadores.</p>
 <p><a href="#indice">volver al índice</a></p>
-<h2 id="v">V</h2>
+<h2 id="en">En</h2>
 <h3 id="°-virtualización">° VIRTUALIZACIÓN:</h3>
 <p><em>DEFINICIÓN:</em> Tecnología que permite ejecutar varios sistemas en un solo equipo. Utiliza maquinas virtuales o contenedores. Optimiza el uso de hardware. Es muy utilizada en servidores y centros de datos.</p>
 <p><a href="#indice">volver al índice</a></p>
-<h2 id="w">W</h2>
+<h2 id="en-1">EN</h2>
 <h3 id="°-web">° WEB</h3>
 <p><em>DEFINICIÓ:</em> Conjunto de paginas y servicios accesibles por internet funciona mediante navegadores web. Utiliza tecnología como HTML, CSS y JavaScript. Permite compartir información globalmente</p>
 <p><a href="#indice">volver al índice</a></p>
