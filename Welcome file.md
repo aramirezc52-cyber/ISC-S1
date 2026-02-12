@@ -2,9 +2,7 @@
 
 <a name="indice"></a<
 ## indice
----
 
-<h2 id="índice">índice</h2>
 <p>° <a href="#a"> A </a></p>
 <p>° <a href="#c"> C </a></p>
 <p>° <a href="#d"> D </a></p>
