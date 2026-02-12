@@ -1,7 +1,7 @@
 
 ---
 
-<a name="indice"></a<
+<a name="indice"></a>
 ## indice
 
 <p>° <a href="#a"> A </a></p>
@@ -60,11 +60,11 @@
 <h3 id="°-transistores">° TRANSISTORES:</h3>
 <p><em>DEFINICIÓN:</em> Componentes electrónicos que controlan el flujo de corriente. Son la base de los circuitos integrados. Funcionan como interruptores o amplificadores.</p>
 <p><a href="#indice">volver al índice</a></p>
-<h2 id="en">En</h2>
+<h2 id="v">V</h2>
 <h3 id="°-virtualización">° VIRTUALIZACIÓN:</h3>
 <p><em>DEFINICIÓN:</em> Tecnología que permite ejecutar varios sistemas en un solo equipo. Utiliza maquinas virtuales o contenedores. Optimiza el uso de hardware. Es muy utilizada en servidores y centros de datos.</p>
 <p><a href="#indice">volver al índice</a></p>
-<h2 id="en-1">EN</h2>
+<h2 id="w-1">W</h2>
 <h3 id="°-web">° WEB</h3>
 <p><em>DEFINICIÓ:</em> Conjunto de paginas y servicios accesibles por internet funciona mediante navegadores web. Utiliza tecnología como HTML, CSS y JavaScript. Permite compartir información globalmente</p>
 <p><a href="#indice">volver al índice</a></p>
