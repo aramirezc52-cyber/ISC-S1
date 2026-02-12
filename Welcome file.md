@@ -1,3 +1,4 @@
+
 ---
 
 <a name="indice"></a<
@@ -28,7 +29,7 @@
 <h2 id="d">D</h2>
 <h3 id="°-devops">° DevOps:</h3>
 <p><em>DEFINICIÓN:</em> Conjunto de practicas que integran desarrollo y operaciones. Busca mejorar la colaboración entre equipos de software. Acelera la entrega de aplicaciones de forma continua.</p>
-<h3 id="°-acoplar">° ACOPLAR:</h3>
+<h3 id="°-DROCKER">° DROCKER:</h3>
 <p><em>DEFINICIÓN:</em> Plataforma que permite crear y ejecutar aplicaciones en contenedores. Los contenedores incluyen todo lo necesario para funcionar.</p>
 <p><a href="#indice">volver al índice</a></p>
 <h2 id="f">F</h2>
