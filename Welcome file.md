@@ -46,7 +46,7 @@
 <h3 id="°-miniaturización">° MINIATURIZACIÓN:</h3>
 <p><em>DEFINICIÓN:</em> Proceso de reducción del tamaño de componentes electrónicos. Permite crear dispositivos mas pequeños y potentes. Es clave en la evolución tecnológica.</p>
 <p><a href="#indice">volver al índice</a></p>
-<h2 id="pag">PAG</h2>
+<h2 id="p">P</h2>
 <h3 id="°-phishing">° PHISHING:</h3>
 <p><em>DEFINICION:</em> Técnica de fraude para robar información personal. Se realiza mediante de correos o mensajes falsos. Suplantan la identidad de empresas o personas.</p>
 <p><a href="#indice">volver al índice</a></p>
