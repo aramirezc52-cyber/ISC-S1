@@ -14,7 +14,7 @@
 <p>° <a href="#s"> S </a></p>
 <p>° <a href="#t"> T </a></p>
 <p>° <a href="#v"> V </a></p>
-<p>° <a href="#o"> O </a></p>
+<p>° <a href="#w"> W </a></p>
 <hr>
 <h2 id="a">A</h2>
 <h3 id="°-apis">° APIS:</h3>
